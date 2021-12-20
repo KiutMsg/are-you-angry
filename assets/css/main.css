@@ -21,17 +21,17 @@ body, html {
 
 .green-dino {
   color: #494949;
-  background-image: url("../images/dino-bg.png");
+  background-image: url("../images/green-cloud.png");
 }
 
 .blue-dino {
   color: #494949;
-  background-image: url("../images/dino-bg-1.png");
+  background-image: url("../images/blue-cloud.png");
 }
 
 .dancing {
   color: #494949;
-  background-image: url("../images/dancing-bg.png");
+  background-image: url("../images/green-halfcloud.png");
 }
 
 .centered {
